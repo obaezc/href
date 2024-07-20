@@ -37,7 +37,7 @@ hr{border:0;border-top:1px solid #eee;margin:20px 0}
 .w3-table td,.w3-table th,.w3-table-all td,.w3-table-all th{padding:8px 8px;display:table-cell;text-align:left;vertical-align:top}
 .w3-table th:first-child,.w3-table td:first-child,.w3-table-all th:first-child,.w3-table-all td:first-child{padding-left:16px}
 
-.w3-table2,.w3-table2-all{border-collapse:collapse;border-spacing:0;width:100%;display:table}.w3-table2-all{border:1px solid #ccc}
+.w3-table2{border-collapse:collapse;border-spacing:0;width:100%;display:table}
 
 
 
