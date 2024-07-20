@@ -38,10 +38,7 @@ hr{border:0;border-top:1px solid #eee;margin:20px 0}
 .w3-table th:first-child,.w3-table td:first-child,.w3-table-all th:first-child,.w3-table-all td:first-child{padding-left:16px}
 
 .w3-table2,.w3-table2-all{border-collapse:collapse;border-spacing:0;width:100%;display:table}.w3-table2-all{border:1px solid #ccc}
-.w3-bordered tr.w3-table2-all tr{border-bottom:1px solid #ddd}.w3-striped tbody tr:nth-child(even){background-color:#f1f1f1}
-.w3-table2-all tr:nth-child(odd){background-color:#fff}.w3-table2-all tr:nth-child(even){background-color:#f1f1f1}
-.w3-table2 td,.w3-table2 th,.w3-table2-all td,.w3-table2-all th{padding:0px 0px;display:table-cell;text-align:left;vertical-align:top}
-.w3-table2 th:first-child,.w3-table2 td:first-child,.w3-table2-all th:first-child,.w3-table2-all td:first-child{padding-left:16px}
+
 
 
 .w3-btn,.w3-button{border:none;display:inline-block;padding:8px 16px;vertical-align:middle;overflow:hidden;text-decoration:none;color:inherit;background-color:inherit;text-align:center;cursor:pointer;white-space:nowrap}
